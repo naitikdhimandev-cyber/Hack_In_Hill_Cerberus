@@ -13,7 +13,7 @@
 ---
 
 ## 👥 Team: Cypher Chasers
-- **Naitik Dhiman** ([@naitikdhiman](https://github.com/naitikdhiman))
+- **Naitik Dhiman** ([@naitikdhiman](https://github.com/naitikdhimandev-cyber))
 - **Rishi Agarwal**
 
 ---
